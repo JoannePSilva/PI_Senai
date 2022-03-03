@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    margin: 50px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(38, 7, 110);
+    text-align: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(16, 62, 88);
+    text-align: center;
+}
